@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/partyiser/static/css/main.854439b2.chunk.css",
+    "main.js": "/partyiser/static/js/main.091a692a.chunk.js",
+    "main.js.map": "/partyiser/static/js/main.091a692a.chunk.js.map",
+    "runtime~main.js": "/partyiser/static/js/runtime~main.37f021af.js",
+    "runtime~main.js.map": "/partyiser/static/js/runtime~main.37f021af.js.map",
+    "static/js/2.f82a434b.chunk.js": "/partyiser/static/js/2.f82a434b.chunk.js",
+    "static/js/2.f82a434b.chunk.js.map": "/partyiser/static/js/2.f82a434b.chunk.js.map",
+    "index.html": "/partyiser/index.html",
+    "precache-manifest.86d77f9f202b00e28a74c9a6e4ca3147.js": "/partyiser/precache-manifest.86d77f9f202b00e28a74c9a6e4ca3147.js",
+    "service-worker.js": "/partyiser/service-worker.js",
+    "static/css/main.854439b2.chunk.css.map": "/partyiser/static/css/main.854439b2.chunk.css.map"
+  }
+}
